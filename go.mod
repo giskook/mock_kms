@@ -1,4 +1,4 @@
-module gitlab.okg.com/okcoin-commons/ok-kms-go-client
+module github.com/giskook/mock_kms
 
 go 1.21
 
